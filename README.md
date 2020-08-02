@@ -11,7 +11,11 @@ Collect infected cases data, which reported from Hong Kong gov.
 
 All the data are come from government dashboard: [Dashboard_CHP_Hong_Kong_Government](https://chp-dashboard.geodata.gov.hk/)
 
+蒐集COVID-19在香港疫情的個案, 所有數據均從香港政府衛生署,2019冠狀病毒病-香港最新情況 網址下爬取.
+
+
+
 ### Acknowledgement
 package requirement: pandas, requests, urllib, time
 
-蒐集COVID-19在香港疫情的個案, 所有數據均從香港政府衛生署,2019冠狀病毒病-香港最新情況 網址下爬取.
+
