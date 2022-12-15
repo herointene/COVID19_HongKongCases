@@ -1,6 +1,10 @@
 # COVID19_HongKongCases
 
-### 0802 Update
+### 2022 Update
+
+DUe to Omicron hit the place, the data will no longer updated by government since Feburary, this program will catch cases before Feb 2022 only.
+
+### 2020 0802 Update
 Uploaded a full version of dataset, contains Chinese characters data
 
 
